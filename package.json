@@ -1,6 +1,7 @@
 {
   "name": "test",
   "dependencies": {
+    "non-existent": "22.3.2"
   },
   "license": "MIT",
   "engines": {
